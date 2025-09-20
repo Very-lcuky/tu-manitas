@@ -1,4 +1,4 @@
-var cacheName = "fixit-app";
+var cacheName = "Tu Manitas-app";
 var filesToCache = [
   "./",
   "./index.html",

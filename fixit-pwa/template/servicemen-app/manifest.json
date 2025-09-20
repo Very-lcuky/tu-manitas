@@ -1,12 +1,12 @@
 {
-  "name": "fixit app",
-  "short_name": "fixit app",
+  "name": "Tu Manitas app",
+  "short_name": "Tu Manitas app",
   "lang": "en-US",
   "start_url": ".",
   "display": "standalone",
   "background_color": "white",
   "theme_color": "#5465FF",
-  "description": "fixit app",
+  "description": "Tu Manitas app",
   "icons": [
     {
       "src": "../../assets/images/logo/favicon.png",
